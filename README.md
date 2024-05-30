@@ -1,6 +1,6 @@
 # React Todo App
 
-[Live Demo]()
+[Live Demo](https://vitaliivashkevych.github.io/todo-app-react/)
 
 ## Description
 This project is a Todo application built with React. It allows users to manage their tasks efficiently, offering features such as adding, deleting, toggling the status of, and renaming todos. The application uses an API for backend operations and maintains a clean and responsive user interface.
@@ -21,17 +21,17 @@ This project is a Todo application built with React. It allows users to manage t
 - Context API: For state management.
 
 ## How to View the Project
-You can view the live demo of the Todo app by visiting the following link: [React Todo App Demo]()
+You can view the live demo of the Todo app by visiting the following link: [React Todo App Demo](https://vitaliivashkevych.github.io/todo-app-react/)
 
 ## Repository
-The source code for this project is available on GitHub. You can clone or fork the repository using the following link: [GitHub Repository]().
+The source code for this project is available on GitHub. You can clone or fork the repository using the following link: [GitHub Repository](https://github.com/VitaliiVashkevych/todo-app-react).
 
 ## Setup Instructions
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/olduma/react-todo-app-api-final.git
+git clone https://github.com/VitaliiVashkevych/todo-app-react.git
 ```
 2. Navigate to the project directory:
 ```
